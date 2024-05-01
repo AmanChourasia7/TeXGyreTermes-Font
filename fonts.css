@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'texgyretermes';
+  src: url('https://github.com/DharmicDeveloper/TeXGyreTermes-Font/raw/main/texgyretermes-regular.otf') format('opentype'),
+       url('https://github.com/DharmicDeveloper/TeXGyreTermes-Font/raw/main/texgyretermes-bold.otf') format('opentype'),
+       url('https://github.com/DharmicDeveloper/TeXGyreTermes-Font/raw/main/texgyretermes-italic.otf') format('opentype'),
+       url('https://github.com/DharmicDeveloper/TeXGyreTermes-Font/raw/main/texgyretermes-bolditalic.otf') format('opentype');
+}
